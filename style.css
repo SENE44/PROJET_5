@@ -167,3 +167,9 @@ input{
 #formulaire2{
     margin: 0 20%;
 }
+
+@media screen and (max-width : 680px) {
+    #supprimer h5{
+        font-size: 8px;
+    }
+}
